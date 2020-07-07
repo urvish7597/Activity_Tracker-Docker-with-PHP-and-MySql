@@ -2,7 +2,7 @@
 It is a project mainly done to learn deployment with docker using PHP and MySql.
 
 Originally this project was deployed with BitBucket consisting 9 teammates including me. I'm putting the link below to reference.
-https://Urvish7597@bitbucket.org/isiteachers/deploy3-magenta.git
+https://bitbucket.org/isiteachers/deploy3-magenta/src/
 
 # Example PHP Docker project
 
